@@ -1,0 +1,9 @@
+Package: com.karin722.minbarx
+Name: minbarx
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: karin722
+Author: karin722
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
